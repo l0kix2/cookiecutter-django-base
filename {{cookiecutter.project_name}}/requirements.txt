@@ -1,4 +1,4 @@
 -e .
 
-Django
+-e git://github.com/django/django.git@1.7b4#egg=django
 django-model-utils
