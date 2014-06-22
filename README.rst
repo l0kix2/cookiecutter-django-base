@@ -15,7 +15,7 @@ Usage
 
 Now run it against this repo::
 
-    $ cd <project_dir>
+    $ cd <workspace>
     $ cookiecutter  https://github.com/l0kix2/cookiecutter-django-base
 
 You'll be prompted for some questions, answer them,
