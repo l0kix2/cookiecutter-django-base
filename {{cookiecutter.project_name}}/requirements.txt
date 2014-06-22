@@ -1,0 +1,4 @@
+-e .
+
+Django
+django-model-utils

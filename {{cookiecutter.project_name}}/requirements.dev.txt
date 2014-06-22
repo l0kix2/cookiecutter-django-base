@@ -1,0 +1,18 @@
+-r requirements.txt
+
+django-extensions
+django-debug-toolbar
+django-pdb
+
+ipython
+ipdb
+
+factory_boy
+fake-factory
+mock
+pretend
+pytest
+pytest-cache
+pytest-django
+pytest-pep8
+pytest-xdist
