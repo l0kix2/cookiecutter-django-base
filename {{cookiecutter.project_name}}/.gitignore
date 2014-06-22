@@ -1,5 +1,5 @@
 # project temporary
-tmp/*
+# tmp/*
 
 # Byte-compiled / optimized / DLL files
 *.py[cod]
