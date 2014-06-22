@@ -2,13 +2,12 @@
 from setuptools import setup
 
 setup(
-    name='{{ project_name }}',
+    name='{{ cookiecutter.project_name }}',
     version='0.1.0',
 
-    scripts=['scripts/manage.py'],
-    entry_points = {
+    entry_points={
         'console_scripts': [
-            '{{ project_name }} = manage:main',
+            '{{ cookiecutter.project_name }} = manage:main',
         ],
     }
 )
